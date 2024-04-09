@@ -1,4 +1,22 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://parknotes.netlify.app/'
 languageCode = 'en-us'
-title = "Parker's Blog"
+title = "Parknotes"
 theme = "PaperMod"
+sectionPagesMenu = "main"
+
+[params.homeInfoParams]
+Title = "Howdy - I'm Parker!"
+Content = """
+By day - I am a Data Scientist at [84.51](https://www.8451.com/) in Cincinnati, Ohio, 
+working primarily in Python building software product to help Kroger with their core business!
+I consider myself a generalist - picking up a lot of tech along the way. Right now in my free time, 
+I am interested more in the low-level world, namely Rust. See some of my work and posts below!
+"""
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/parkerkain"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/parkerkain/"
