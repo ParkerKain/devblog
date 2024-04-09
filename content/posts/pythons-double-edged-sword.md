@@ -111,3 +111,8 @@ go from there.
 
 * Duck Typing is powerful, but can create disconnects between your mocks and the objects they are there to mock
 * When possible - do not pass unused attributes to functions.
+
+## Follow ups I need to do:
+
+I feel like this case must be addressed in Clean Code - but I have not read it (despite owning a copy). 
+I am going to read at least the first few chapters.
