@@ -6,8 +6,16 @@
     <description>Recent content on Parknotes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Apr 2024 18:18:10 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 12:59:31 -0400</lastBuildDate>
     <atom:link href="https://parknotes.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ideas for Blogs and Projects</title>
+      <link>https://parknotes.netlify.app/posts/ideas/</link>
+      <pubDate>Sat, 13 Apr 2024 12:59:31 -0400</pubDate>
+      <guid>https://parknotes.netlify.app/posts/ideas/</guid>
+      <description>I am going to use this post to mark down ideas I have for blogs and projects to build - and hopefully over time they will link out to me actually doing those things!
+Project Ideas The parknotes project for note taking in the terminal - ongoing likely forever. Link here! Krogle - a Wordle clone using public Kroger APIs. I am an employee of corporate Kroger should I should be well equipped to do something fun/cool with the data.</description>
+    </item>
     <item>
       <title>Is Duck Typing Worth the Cruft?</title>
       <link>https://parknotes.netlify.app/posts/pythons-double-edged-sword/</link>
