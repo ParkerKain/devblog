@@ -14,7 +14,7 @@
       <pubDate>Sat, 13 Apr 2024 12:59:31 -0400</pubDate>
       <guid>https://parknotes.netlify.app/posts/ideas/</guid>
       <description>I am going to use this post to mark down ideas I have for blogs and projects to build - and hopefully over time they will link out to me actually doing those things!
-Project Ideas The parknotes project for note taking in the terminal - ongoing likely forever. Link here! Krogle - a Wordle clone using public Kroger APIs. I am an employee of corporate Kroger should I should be well equipped to do something fun/cool with the data.</description>
+Project Ideas The parknotes project for note taking in the terminal - ongoing likely forever. Link here! Working through Rustlings Understanding Datafusion and it&amp;rsquo;s place amongst polars and spark Making a TUI for different data structures Krogle - a Wordle clone using public Kroger APIs.</description>
     </item>
     <item>
       <title>Is Duck Typing Worth the Cruft?</title>
